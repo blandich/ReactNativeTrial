@@ -1,0 +1,11 @@
+export const PROFILEPIC = require('./profile_picture.jpg'); 
+export const JAVA = require('./java.png');
+export const IONIC = require('./ionic.png');
+export const ANGULAR = require('./angular.png');
+export const AS400 = require('./as400.png');
+export const PHP = require('./php.png');
+export const KORE = require('./kore.png');
+export const SWAGGER = require('./swagger.png');
+export const JS = require('./javascript.jpg');
+export const GATLING = require('./gatling.png');
+export const LONDON = require('./london.jpg');
